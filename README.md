@@ -27,19 +27,26 @@
 
 ---
 
-## ⚙️ Installation / Instalare
+## 🌟 Why Choose Our Bot? / De ce să alegi botul nostru?
 
-1. **Download ZIP** from GitHub and extract.  
-2. **Install Python 3.13.2+** and add to PATH.  
-3. **Install FFmpeg** and add to PATH.  
-4. **Open terminal** in project folder:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. **Configure** `settings.json` (see below).  
-6. **Run**:
-   - English: `python bot_en.py`
-   - Română:  `python bot_ro.py`
+**EN:**  
+- Easy to set up and configure.  
+- Exclusive support for YouTube links — simply paste a link and enjoy.  
+- Lightweight and optimized performance.  
+- Regular updates and community-driven features.  
+
+**RO:**  
+- Configurare și utilizare ușoară.  
+- Suport exclusiv pentru linkuri YouTube — copiază și are melodia!  
+- Consum redus de resurse și performanță optimizată.  
+- Actualizări regulate și funcționalități propuse de comunitate.  
+
+---
+
+## ⚠️ Disclaimer / Declarație de Responsabilitate
+
+The developers are not responsible for copyright issues arising from streaming third-party content. Use this bot at your own risk and ensure you comply with Discord's Terms of Service and the content provider's policies.  
+Dezvoltatorii nu sunt responsabili pentru probleme de drepturi de autor care pot apărea din redarea conținutului terț. Folosește acest bot pe propriul risc și asigură-te că respecți Termenii Discord și politicile furnizorilor de conținut.
 
 ---
 
@@ -71,7 +78,9 @@ discord.py
 yt-dlp
 PyNaCl
 ```
+
 Install:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -82,6 +91,13 @@ pip install -r requirements.txt
 
 - Discord: mihaivere  
 - GitHub: https://github.com/M1HA15/DiscordMusicPlayer  
+
+---
+
+## 🙏 Acknowledgments / Mulțumiri
+
+Thanks to all contributors and the open-source community for continuous support and inspiration.  
+Mulțumiri tuturor contribuabililor și comunității open-source pentru sprijinul și inspirația continuă.
 
 ---
 
