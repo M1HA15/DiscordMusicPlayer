@@ -1,0 +1,12 @@
+{
+    "owner_id": "your id",
+    "guild_ids": [],
+    "dj_roles": {},
+    "timeout": 30,
+    "token": "your bot token",
+    "prefix": ".",
+    "alt_prefix": "ham",
+    "volume": 1.0,
+    "status_type": "playing",
+    "status_message": "github.com/M1HA15"
+}  
