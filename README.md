@@ -1,72 +1,55 @@
-# Discord Music Player / Bot de Muzică Discord
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13"/>
+  <img src="https://img.shields.io/badge/License-GPLv3-green.svg" alt="GPL-3.0 License"/>
+  <img src="https://img.shields.io/badge/Discord-Music%20Bot-purple.svg" alt="Discord Music Bot"/>
+</p>
 
-**EN:** Discord Music Player is a fast, customizable, open-source music bot for Discord. It streams high-quality audio from YouTube, SoundCloud, and more—complete with queue management, playlists, volume control, and multilingual support.
+# 🎵 Discord Music Player / Bot de Muzică Discord 🎵
 
-**RO:** Discord Music Player este un bot de muzică open-source rapid și personalizabil pentru Discord. Redă audio de înaltă calitate de pe YouTube, SoundCloud și altele—cu gestionare coadă, playlisturi, control volum și suport multilingv.
+**EN:** A sleek, open-source Discord music bot delivering high-quality audio playback, smart queue & playlist management, and multilingual support.  
+**RO:** Un bot de muzică Discord open-source, modern, cu redare audio de înaltă calitate, gestionare inteligentă a cozii și playlisturilor și suport multilingv.
 
-## 🚀 Features / Funcționalități
+---
 
-| 🇬🇧 Features                                    | 🇷🇴 Funcționalități                               |
-|-----------------------------------------------|--------------------------------------------------|
-| ▶️ Play/Pause/Resume                          | ▶️ Redare/Pauză/Continuare                       |
-| ⏭️ Skip current track                         | ⏭️ Sari peste piesa curentă                       |
-| 📜 View & manage queue                        | 📜 Vizualizează și gestionează coada             |
-| 📂 Create & manage personal playlists         | 📂 Creează și gestionează playlisturi             |
-| 🔍 Search and add tracks by name or URL        | 🔍 Caută și adaugă piese după nume sau URL       |
-| 🔊 Adjustable volume                          | 🔊 Control volum                                  |
-| 🌐 Multilingual (EN + RO)                     | 🌐 Multilingv (EN + RO)                           |
-| 💾 Configurable via settings.json             | 💾 Configurabil prin settings.json                |
-| 🔒 Owner & DJ role permissions                | 🔒 Permisiuni owner & rol DJ                     |
-| 📖 Paginated help command                     | 📖 Comandă de ajutor paginată                    |
+## ✨ Key Features / Funcționalități
 
-## 📋 Technical Requirements / Cerințe Tehnice
+| 🇬🇧 **Features**                       | 🇷🇴 **Funcționalități**                 |
+|---------------------------------------|----------------------------------------|
+| 🎶 High-Quality Streaming             | 🎶 Streaming de înaltă calitate        |
+| ⚡ Instant Play / Pause / Skip        | ⚡ Play/Pauză/Skip instant             |
+| 📋 Smart Queue & Playlist System      | 📋 Coadă & playlisturi inteligente     |
+| 🔍 Search by Name or URL              | 🔍 Caută după nume sau URL             |
+| 🔊 Dynamic Volume Control             | 🔊 Control dinamic al volumului        |
+| 🌐 English & Romanian Interfaces      | 🌐 Interfețe EN & RO                   |
+| 🛠️ Configurable via settings.json     | 🛠️ Configurabil prin settings.json    |
+| 🔒 Owner & DJ Role Permissions        | 🔒 Permisiuni Owner & DJ Role          |
+| 📖 Interactive, Paginated Help        | 📖 Ajutor interactiv, paginat          |
 
-- Python 3.13.2 or newer  
-- FFmpeg installed & in your system PATH  
-- Internet connection  
-- A valid Discord Bot Token  
-- Supported OS: Windows 10+ or Linux
+---
 
 ## ⚙️ Installation / Instalare
 
-### Windows
-
-```bash
-git clone https://github.com/M1HA15/DiscordMusicPlayer.git
-cd DiscordMusicPlayer
-pip install -r requirements.txt
-```
-1. Install Python 3.13.2 (add to PATH).  
-2. Install FFmpeg and add to PATH.  
-3. Clone & install dependencies.  
-4. Configure settings.json (see below).  
-5. Run:
+1. **Download ZIP** from GitHub and extract.  
+2. **Install Python 3.13.2+** and add to PATH.  
+3. **Install FFmpeg** and add to PATH.  
+4. **Open terminal** in project folder:
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. **Configure** `settings.json` (see below).  
+6. **Run**:
    - English: `python bot_en.py`
    - Română:  `python bot_ro.py`
 
-### Linux
-
-```bash
-sudo apt update
-sudo apt install python3.13 python3-pip ffmpeg
-git clone https://github.com/M1HA15/DiscordMusicPlayer.git
-cd DiscordMusicPlayer
-pip3 install -r requirements.txt
-```
-1. Install Python & FFmpeg via package manager.  
-2. Clone & install dependencies.  
-3. Configure settings.json (see below).  
-4. Run:
-   - English: `python3 bot_en.py`
-   - Română:  `python3 bot_ro.py`
+---
 
 ## 🛠️ Configuration / Configurare
 
-Create a `settings.json` in project root:
+Create `settings.json` in root:
 
 ```json
 {
-  "token": "YOUR_BOT_TOKEN_HERE",
+  "token": "YOUR_DISCORD_BOT_TOKEN",
   "prefix": ".",
   "alt_prefix": "ham",
   "owner_id": "YOUR_DISCORD_ID",
@@ -79,6 +62,8 @@ Create a `settings.json` in project root:
 }
 ```
 
+---
+
 ## 📦 Dependencies / Dependențe
 
 ```
@@ -86,18 +71,20 @@ discord.py
 yt-dlp
 PyNaCl
 ```
-
-Install with:
-
+Install:
 ```bash
 pip install -r requirements.txt
 ```
 
+---
+
 ## 📞 Contact
 
 - Discord: mihaivere  
-- GitHub: https://github.com/M1HA15/DiscordMusicPlayer
+- GitHub: https://github.com/M1HA15/DiscordMusicPlayer  
+
+---
 
 ## 📝 License / Licență
 
-Distributed under the GPL-3.0 License. See LICENSE for details.
+Distributed under the [GPL-3.0 License](https://github.com/M1HA15/DiscordMusicPlayer/blob/main/LICENSE).  
