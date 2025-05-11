@@ -45,8 +45,8 @@
 
 ## ⚠️ Disclaimer / Declarație de Responsabilitate
 
-The developers are not responsible for copyright issues arising from streaming third-party content. Use this bot at your own risk and ensure you comply with Discord's Terms of Service and the content provider's policies.  
-Dezvoltatorii nu sunt responsabili pentru probleme de drepturi de autor care pot apărea din redarea conținutului terț. Folosește acest bot pe propriul risc și asigură-te că respecți Termenii Discord și politicile furnizorilor de conținut.
+**EN:** The developers are not responsible for copyright issues arising from streaming third-party content. Use this bot at your own risk and ensure you comply with Discord's Terms of Service and the content provider's policies.  
+**RO:** Dezvoltatorii nu sunt responsabili pentru probleme de drepturi de autor care pot apărea din redarea conținutului terț. Folosește acest bot pe propriul risc și asigură-te că respecți Termenii Discord și politicile furnizorilor de conținut.
 
 ---
 
@@ -96,8 +96,8 @@ pip install -r requirements.txt
 
 ## 🙏 Acknowledgments / Mulțumiri
 
-Thanks to all contributors and the open-source community for continuous support and inspiration.  
-Mulțumiri tuturor contribuabililor și comunității open-source pentru sprijinul și inspirația continuă.
+**EN:** Thanks to all contributors and the open-source community for continuous support and inspiration.  
+**RO:** Mulțumiri tuturor contribuabililor și comunității open-source pentru sprijinul și inspirația continuă.
 
 ---
 
