@@ -1,6 +1,7 @@
 # Discord Music Player / Bot de Muzică Discord
 
 **EN:** Discord Music Player is a fast, customizable, open-source music bot for Discord. It streams high-quality audio from YouTube, SoundCloud, and more—complete with queue management, playlists, volume control, and multilingual support.
+
 **RO:** Discord Music Player este un bot de muzică open-source rapid și personalizabil pentru Discord. Redă audio de înaltă calitate de pe YouTube, SoundCloud și altele—cu gestionare coadă, playlisturi, control volum și suport multilingv.
 
 ## 🚀 Features / Funcționalități
