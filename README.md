@@ -108,7 +108,7 @@ Create a `settings.json` in the project root:
 ## 📫 Contact
 
 - **GitHub:** [M1HA15](https://github.com/M1HA15)  
-- **Discord:** `mihaivere`
+- **Discord:** `mihaifbd`
 
 ---
 
