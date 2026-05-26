@@ -40,7 +40,8 @@
 2. **FFmpeg**  
    🇬🇧 Download & install FFmpeg:  
    - Official: https://www.ffmpeg.org/download.html  
-   - Tutorial: https://youtu.be/JR36oH35Fgg  
+   - Tutorial: https://youtu.be/JR36oH35Fgg
+  
    🇷🇴 Descarcă și instalează FFmpeg:  
    - Oficial: https://www.ffmpeg.org/download.html  
    - Tutorial: https://youtu.be/JR36oH35Fgg  
